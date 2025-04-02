@@ -65,7 +65,7 @@ export const Hero = memo(function Hero() {
           transition={{ duration: 0.3, delay: 0.2 }}
           className="text-5xl font-bold mb-4"
         >
-          Raol Mukarrozi
+          Prayuda Sychputz
         </motion.h1>
 
         <div className="text-3xl font-semibold mb-4 h-12 flex items-center justify-center">
