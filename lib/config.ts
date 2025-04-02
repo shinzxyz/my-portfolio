@@ -7,18 +7,18 @@
 
 export const siteConfig = {
   // Website information
-  name: "Raol Mukarrozi",
-  title: "Raol Mukarrozi - Personal Portfolio",
+  name: "Prayuda Sychputz",
+  title: "Prayuda Sychputz - Personal Portfolio",
   description: "Tech Enthusiast skilled in HTML, CSS, JavaScript, Tailwind, Node.js, and Laravel",
 
   // Social media links
   social: {
-    github: "https://github.com/latesturl",
-    email: "latesturltech@gmail.com",
+    github: "https://github.com/shinzxyz",
+    email: "shinz235@gmail.com",
   },
-
+  
   // Location information
-  location: "Banjarbaru, Indonesia",
+  location: "Jawa Tengah, Indonesia",
 
   // Professional roles
   roles: ["Full Stack Developer", "Tech Educator", "Open Source Contributor"],
@@ -28,8 +28,8 @@ export const siteConfig = {
 
   // Media settings
   media: {
-    backgroundMusic: "https://files.catbox.moe/kxu767.mp3",
-    profileImage: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-profile.jpg",
+    backgroundMusic: "https://files.catbox.moe/xe5o5g.mp3",
+    profileImage: "https://files.catbox.moe/3y0pil.png",
     portfolioImage: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-portofolio.jpg",
   },
 
