@@ -40,7 +40,7 @@ export const Hero = memo(function Hero() {
           <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-yellow-400 to-yellow-300" />
           <div className="relative">
             <Image
-              src="https://files.catbox.moe/3y0pil.png"
+              src="https://files.catbox.moe/gh3ub0.jpg"
               alt="My Profile"
               width={200}
               height={200}
