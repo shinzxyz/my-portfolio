@@ -29,7 +29,7 @@ export const siteConfig = {
   // Media settings
   media: {
     backgroundMusic: "https://files.catbox.moe/xe5o5g.mp3",
-    profileImage: "https://files.catbox.moe/3y0pil.png",
+    profileImage: "https://files.catbox.moe/gh3ub0.jpg",
     portfolioImage: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-portofolio.jpg",
   },
 
