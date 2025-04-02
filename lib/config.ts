@@ -14,7 +14,7 @@ export const siteConfig = {
   // Social media links
   social: {
     github: "https://github.com/shinzxyz",
-    email: "shinz235@gmail.com",
+    email: "ydaanewww@gmail.com",
   },
   
   // Location information
